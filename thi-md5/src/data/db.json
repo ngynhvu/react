@@ -1,0 +1,106 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "code": "BO-0001",
+      "name": "Toan",
+      "date": "01-01-2024",
+      "quantity": "10",
+      "type": {
+        "id": "1",
+        "name": "Sách giáo khoa"
+      }
+    },
+    {
+      "id": "2",
+      "code": "BO-0002",
+      "name": "Conan",
+      "date": "01-01-2024",
+      "quantity": "10",
+      "type": {
+        "id": "2",
+        "name": "Trinh thám"
+      }
+    },
+    {
+      "id": "3",
+      "code": "BO-0003",
+      "name": "Superman",
+      "date": "01-01-2024",
+      "quantity": "10",
+      "type": {
+        "id": "3",
+        "name": "Viễn tưởng"
+      }
+    },
+    {
+      "id": "495a",
+      "code": "BO-1234",
+      "name": "Doremon",
+      "date": "1212-12-12",
+      "quantity": 2,
+      "type": {
+        "id": "2",
+        "name": "Trinh thám"
+      }
+    },
+    {
+      "id": "7917",
+      "code": "BO-0004",
+      "name": "English",
+      "date": "1212-12-12",
+      "quantity": 66,
+      "type": {
+        "id": "1",
+        "name": "Sách giáo khoa"
+      }
+    },
+    {
+      "id": "d6bd",
+      "code": "BO-1232",
+      "name": "dsa",
+      "date": "2024-04-26",
+      "quantity": 2,
+      "type": {
+        "id": "1",
+        "name": "Sách giáo khoa"
+      }
+    },
+    {
+      "id": "dbca",
+      "code": "BO-1232",
+      "name": "nha",
+      "date": "2024-04-25",
+      "quantity": 12,
+      "type": {
+        "id": "2",
+        "name": "Trinh thám"
+      }
+    },
+    {
+      "id": "8144",
+      "code": "BO-1232",
+      "name": "Fortuner",
+      "date": "1212-12-12",
+      "quantity": 12,
+      "type": {
+        "id": "1",
+        "name": "Sách giáo khoa"
+      }
+    }
+  ],
+  "type": [
+    {
+      "id": "1",
+      "name": "Sách giáo khoa"
+    },
+    {
+      "id": "2",
+      "name": "Trinh thám"
+    },
+    {
+      "id": "3",
+      "name": "Viễn tưởng"
+    }
+  ]
+}

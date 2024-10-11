@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/demo-1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/demo-props" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/md5-final" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/practice-md5" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/practice-md5-2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/practice-md5-3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ss2-home/thuc_hanh" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ss3/baitap" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ss3/calculator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ss3/crud" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ss3/login-logout" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ss3/todo-list" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ss4/baitap" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ss4/baitap_nangcao" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ss4/thuc_hanh/thuchanh" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ss5-crud/project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ss5/project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/thi-md5" vcs="Git" />
+  </component>
+</project>
